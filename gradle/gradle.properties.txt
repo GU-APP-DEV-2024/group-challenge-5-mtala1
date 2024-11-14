@@ -1,0 +1,1 @@
+NASA_API_KEY = "VGYSBsAUPkqobu9ybOhwZ1fvheiOQ5XkHEsbwi9U"

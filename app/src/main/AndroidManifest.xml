@@ -12,6 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.WorkingWithData"
         tools:targetApi="31">
+        <activity android:name=".DataDisplayActivity" />
         <activity
             android:name=".NasaAPI"
             android:exported="false"
